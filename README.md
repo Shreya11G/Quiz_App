@@ -1,4 +1,3 @@
-```markdown
 # 🎯 Quiz App
 
 A full-stack **Quiz Application** built using the **MERN stack** (MongoDB, Express.js, React, Node.js). Users can take quizzes, view their scores, and experience an intuitive and responsive interface.
