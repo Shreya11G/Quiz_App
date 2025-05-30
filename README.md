@@ -1,7 +1,3 @@
-Sure! Here's your updated `README.md` for the **Quiz App**, **without the live demo section**:
-
----
-
 ```markdown
 # 🎯 Quiz App
 
@@ -96,9 +92,6 @@ VITE_API_URL=http://localhost:5000
 
 ---
 
-
----
-
 ## 🧠 Future Enhancements
 
 * Authentication system (login/signup)
@@ -114,19 +107,11 @@ Contributions are welcome! Fork the repo, make your changes, and submit a pull r
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 💬 Contact
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Your Name](https://github.com/Shreya11G)
 
 ```
-
----
 
 Let me know if you’d like help auto-generating badges or a cover image for your GitHub repo.
 ```
