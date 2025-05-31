@@ -5,7 +5,7 @@ const app= express();
 const PORT = process.env.PORT || 5000;
 const cors= require('cors');
 const jwt=require('jsonwebtoken');
-const secret='2953add3a41fe1524b08c1d2049dc5f59b9f12cfe6a98d64758e20f063721ae4e8ce5f4fb14409fdbcfbe4cae849ba831c19236ab1018f878cb4a0b7534112ed'
+const secret = process.env.JWT_SECRET;
 app.use(cors());
 app.use(express.json());
 
